@@ -1,10 +1,10 @@
 # ndjson-csv-xlsx
-ndjson, csv, xlsx parser and builder
+stream from and to ndjson, csv, xlsx
 
 ## features
 
 - unified api, just `.parse` and `.stringify`
-- stream in and out
+- stream from and to
 
 ## usage
 ```sh

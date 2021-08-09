@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/fanlia/ndjson-csv-xlsx.git"
   },
-  "keywords": [],
+  "keywords": ["stream", "ndjson", "csv", "xlsx"],
   "author": "",
   "license": "MIT",
   "bugs": {
