@@ -1,6 +1,6 @@
 {
   "name": "ndjson-csv-xlsx",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "ndjson, csv, xlsx parser and builder",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,12 @@
     "type": "git",
     "url": "git+https://github.com/fanlia/ndjson-csv-xlsx.git"
   },
-  "keywords": ["stream", "ndjson", "csv", "xlsx"],
+  "keywords": [
+    "stream",
+    "ndjson",
+    "csv",
+    "xlsx"
+  ],
   "author": "",
   "license": "MIT",
   "bugs": {
