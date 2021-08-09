@@ -102,3 +102,12 @@ dist
 
 # TernJS port file
 .tern-port
+
+# ignore xlsx, csv, ndjson
+test/*.csv
+test/*.ndjson
+test/*.xlsx
+
+!test/data.csv
+!test/data.ndjson
+!test/data.xlsx
