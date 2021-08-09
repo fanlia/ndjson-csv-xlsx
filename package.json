@@ -18,9 +18,11 @@
   },
   "homepage": "https://github.com/fanlia/ndjson-csv-xlsx#readme",
   "dependencies": {
+    "@atomictech/xlsx-write-stream": "^2.0.2",
     "fast-csv": "^4.3.6",
     "ndjson": "^2.0.0",
     "saxophone": "^0.7.2",
-    "unzipper": "^0.10.11"
+    "unzipper": "^0.10.11",
+    "xlsx-parse-stream": "^1.0.2"
   }
 }

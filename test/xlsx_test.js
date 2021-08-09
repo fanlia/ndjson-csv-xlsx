@@ -1,8 +1,8 @@
 
 const fs = require('fs')
-const { xlsx, csv } = require('..')
+const { xlsx } = require('..')
 
 process.stdin
-.pipe(xlsx.parse())
-.pipe(csv.format())
+.pipe(xlsx.parse({ selector: 'Sheet1' }))
+.pipe(xlsx.stringify({ header: true }))
 .pipe(process.stdout)
