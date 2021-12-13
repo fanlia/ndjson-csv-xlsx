@@ -26,6 +26,8 @@
     "@atomictech/xlsx-write-stream": "^2.0.2",
     "fast-csv": "^4.3.6",
     "ndjson": "^2.0.0",
+    "stream-chain": "^2.2.4",
+    "stream-json": "^1.7.3",
     "xlsx-parse-stream": "^1.0.2"
   }
 }
