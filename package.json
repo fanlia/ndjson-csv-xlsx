@@ -1,6 +1,6 @@
 {
   "name": "ndjson-csv-xlsx",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "description": "stream from and to ndjson, csv, xlsx",
   "main": "index.js",
   "scripts": {
